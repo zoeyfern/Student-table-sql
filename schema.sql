@@ -1,5 +1,3 @@
--- Contributors: Syeda Zoya, Ayesha Fatima, Aroosha Adil
-
 CREATE TABLE Students (
     id                  INTEGER PRIMARY KEY AUTOINCREMENT,
     name                TEXT NOT NULL,
